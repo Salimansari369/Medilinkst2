@@ -13,6 +13,16 @@ This repository contains **Milestone 2 & 3 (Final Release)**, introducing intera
 
 ---
 
+## 📸 Healthcare Portal & Appointment Booking Preview
+
+<p align="center">
+  <img src="assets/medilink_preview.jpg" width="100%" alt="MediLinks Milestone 2 & 3 Interface" style="border-radius: 10px; box-shadow: 0 4px 20px rgba(0,0,0,0.15);" />
+</p>
+
+*Final release UI showcasing doctor appointment scheduler, patient reviews, and clinic infrastructure.*
+
+---
+
 ## 🌟 Key Features (Final Deliverables)
 
 * **Interactive Appointment Booking (`appointments.html`):** Patients can select consultation dates, time slots, choose specialized doctors, and input symptom descriptions.
